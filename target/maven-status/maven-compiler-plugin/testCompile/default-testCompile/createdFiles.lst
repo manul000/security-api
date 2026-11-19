@@ -1,0 +1,5 @@
+com/study/task/AuthFlowIntegrationTest.class
+com/study/task/JwtServiceTest.class
+com/study/task/TaskControllerTest.class
+com/study/task/AuthControllerTest.class
+com/study/task/TaskServiceTest.class
